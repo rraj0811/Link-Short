@@ -2,8 +2,8 @@
 	"name": "url-shortner",
 	"version": "1.0.0",
 	"main": "index.js",
-	"author": "Mehul Mohan <mehulmpt@gmail.com>",
-	"license": "MIT",
+	"author": "Puttoju Rajkumar <rraj0811@gmail.com>",
+
 	"scripts": {
 		"start": "nodemon index.js"
 	},
